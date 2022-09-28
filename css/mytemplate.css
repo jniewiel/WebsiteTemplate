@@ -1,0 +1,47 @@
+td
+{vertical-align: middle}
+
+th
+{vertical-align: middle}
+
+table
+{color: white; margin-left: auto; margin-right: auto; width: 975px; padding: 5px;} 
+
+body
+{background-color: #4A4A4A;}
+
+#banner
+{background-color: black; font-family: Arial; font-size: 20px;}
+
+#content
+{background-color: #808080; color: #F4F4F4; border: 10px;}
+
+#footer
+{background-color: black; font-family: Arial;}
+	
+	#footer a:link
+	{border-radius: 15px; background-color: black; color: white; padding: 5px 45px; display: inline-block; text-align: center; text-decoration: none}
+	
+	#footer a:hover
+	{background-color: #1DCDEC}
+
+	#footer a:visited
+	{color: red}
+
+#mainnav
+{background-color: black; font-family: Arial; font-size: 16px;}
+	
+	#mainnav a:link
+	{border-radius: 15px; background-color: black; color: white; display: inline-block; text-align: center; padding: 10px 45px; text-decoration: none}
+	
+	#mainnav a:hover
+	{background-color: grey}
+
+	#mainnav a:visited
+	{color: #45EF0F}
+
+#info
+{background-color: black}
+
+#validation
+{text-align: center}
